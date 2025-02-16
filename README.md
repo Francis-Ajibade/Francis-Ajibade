@@ -1,5 +1,6 @@
-<h2 align="left">Hi 👋! My name is Franics and I'm a software Engineer from Canada</h2>
-
+<h2 align="left">Hi 👋! I'm Francis Oladimeji Ajibade  
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjNhNHJrejdleHlyaXZ3cHVhenI2eXJhaXd3OTRheDl6Z21nY2RtYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" height = 50px alt = "mm" </img>
+</h2>
 ###
 
 <div align="left">
@@ -16,6 +17,7 @@
 ###
 
 <div align="left">
+  <h3 align="left">Languages and Tools:</h3>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
@@ -38,6 +40,8 @@
 ###
 
 <div align="left">
+  
+<h3 align="left">Connect with me:</h3>
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   <a href="francisoladim15@gmail.com" target="_blank">
