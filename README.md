@@ -1,10 +1,21 @@
-<h2 align="left">Hi 👋! I'm Francis Oladimeji Ajibade  
+<h2 align="left">Hi there👋! 
 <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjNhNHJrejdleHlyaXZ3cHVhenI2eXJhaXd3OTRheDl6Z21nY2RtYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" height = 50px alt = "mm" </img>
 </h2>
 ###
 
+
 <div align="left">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Francis-Ajibade.Francis-Ajibade&left_text=Welcome"  />
+  <p> I'm Francis Oladimeji Ajibade, A student of UNB Saint John</p>
+  <p>About Me:</p>
+  <ul>
+        <li><span>💻</span> I'm a Fullstack Developer, currently exploring Web3 Space</li>
+        <li><span>⏳</span> Exploring Machine Language & Assembly</li>
+        <li><span>👨‍💼</span> Student at the University of New Brunswick in the bachelors of science in computer science</li>
+        <li><span>🚀</span> Always ready to collaborate for Dev Experiments</li>
+        <li><span>🎯</span> Life Hack: "Explore 🔥 and Explode 💣 with knowledge"</li>
+        <li><span>⚡</span> Fun fact: I love to attend Meetups for learning & Conferences for Networking</li>
+    </ul>
 </div>
 
 ###
